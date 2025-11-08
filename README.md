@@ -3,6 +3,8 @@
 **NewsAdda** is a responsive and dynamic news platform developed using **React.js**, designed to deliver real-time news updates across multiple categories. The application integrates the **NewsAPI** to fetch and display live headlines, ensuring users stay informed about the latest happenings in business, technology, sports, health, entertainment, and science.
 
 ---
+<img width="1902" height="869" alt="image" src="https://github.com/user-attachments/assets/f1b12da3-ceae-4b31-96b6-88cf825e4f14" />
+
 
 ## 📖 Project Overview
 
@@ -24,6 +26,7 @@ Because GitHub Pages is used for deployment, the application utilizes **HashRout
 - **Deployed on GitHub Pages:** Fully static, lightweight, and hosted for free using GitHub Pages for fast and reliable access.
 
 ---
+
 
 ## 🧠 Learning Objectives
 
@@ -48,6 +51,13 @@ Upon launching **NewsAdda**, users are greeted with top headlines from the *Gene
 The interface focuses on clarity, minimalism, and responsiveness to ensure a smooth reading experience across all devices.
 
 ---
+
+<img width="404" height="752" alt="image" src="https://github.com/user-attachments/assets/e1d38b88-0a30-4a63-a3b5-7bf543c59d92" />
+---
+<img width="718" height="759" alt="image" src="https://github.com/user-attachments/assets/f47e274d-b334-44da-8a32-f89723799f95" />
+
+
+
 
 ## 🚀 Deployment
 
